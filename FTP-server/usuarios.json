@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "USER": "manuel",
+      "PASS": "passManuel",
+      "DIRECTORY": "Archivos_users/manuel/"
+    },
+    {
+      "USER": "jesus",
+      "PASS": "passJesus",
+      "DIRECTORY": "Archivos_users/jesus/"
+    },
+    {
+      "USER": "rodrigo",
+      "PASS": "passRodrigo",
+      "DIRECTORY": "Archivos_users/rodrigo/"
+    }
+  ]
+
+}
